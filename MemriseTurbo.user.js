@@ -5,9 +5,15 @@
 // @match          https://www.memrise.com/course/*/garden/*
 // @match          https://www.memrise.com/garden/water/*
 // @match          https://www.memrise.com/garden/review/*
-// @version        0.1.17
-// @updateURL      https://github.com/cooljingle/memrise-turbo/raw/master/MemriseTurbo.user.js
-// @downloadURL    https://github.com/cooljingle/memrise-turbo/raw/master/MemriseTurbo.user.js
+// @match          https://decks.memrise.com/course/*/garden/*
+// @match          https://decks.memrise.com/garden/water/*
+// @match          https://decks.memrise.com/garden/review/*
+// @match          https://app.memrise.com/course/*/garden/*
+// @match          https://app.memrise.com/garden/water/*
+// @match          https://app.memrise.com/garden/review/*
+// @version        0.1.18
+// @updateURL      https://github.com/CodesInChaos/memrise-turbo/raw/master/MemriseTurbo.user.js
+// @downloadURL    https://github.com/CodesInChaos/memrise-turbo/raw/master/MemriseTurbo.user.js
 // @grant          none
 // ==/UserScript==
 
